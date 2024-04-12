@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello, I'm Obed 👋
 
+I'm a full-stack developer with experience in frameworks like __Nodejs__, **jQuery**, __Vuejs__.
+- 🌱 I’m currently learning __React__.
+- 🔭 Working on: Creating a full-stack application using __React__. __Nodejs__ & __mySQL__.
+- 🌍 Languages: **Javascript**, **HTML**, **CSS**, **SQL**
 <!--
 **obedsp22/obedsp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
