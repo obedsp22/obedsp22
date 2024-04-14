@@ -5,3 +5,8 @@ I'm a full-stack developer with experience in frameworks like __Nodejs__, **jQue
 - 🌱 I’m currently learning __React__.
 - 🔭 Working on: Creating a full-stack application using __React__. __Nodejs__ & __mySQL__.
 - 🌍 Languages: **Javascript**, **C#**, **HTML**, **CSS**, **SQL**
+
+## Get In Touch
+
+* Linkedin: [https://www.linkedin.com/in/obed-s-perez-517770196]
+* Portfolio: [https://my-portfolio-blue-chi.vercel.app/]
