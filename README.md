@@ -8,4 +8,4 @@ I'm a full-stack developer with experience in frameworks and libraries like __No
 ## Get In Touch
 
 * Linkedin: https://www.linkedin.com/in/obed-s-perez-517770196
-* Portfolio: https://my-portfolio-blue-chi.vercel.app/
+* Portfolio: https://obeds-portfolio.vercel.app
